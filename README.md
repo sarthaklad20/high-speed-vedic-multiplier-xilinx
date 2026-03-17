@@ -58,7 +58,7 @@ The 8×8 Vedic multiplier is implemented using a **hierarchical design approach*
 
 ## Simulation Waveform
 
-![Simulation Output](simulation_waveform_2.png)
+![Simulation Output](simulation_waveform.png)
 
 The design is verified using a Verilog testbench in Vivado. Multiple input combinations are applied to ensure correct multiplication results.
 
